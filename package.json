@@ -1,0 +1,29 @@
+{
+  "name": "react-image-uploader",
+  "version": "0.0.0",
+  "description": "Image uploading component in react",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emcelyea/react-image-uploader.git"
+  },
+  "keywords": [
+    "react",
+    "image",
+    "upload"
+  ],
+  "author": "Eric McElyea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emcelyea/react-image-uploader/issues"
+  },
+  "homepage": "https://github.com/emcelyea/react-image-uploader#readme",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-command": "^0.4.1"
+  }
+}
